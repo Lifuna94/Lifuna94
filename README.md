@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lifuna
+- 👀 I’m interested in ...Data science 
+- 🌱 I’m currently learning ... ML
+- 💞️ I’m looking to collaborate on anything that involves data
+- 📫 How to reach me ... on GitHub
